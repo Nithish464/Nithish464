@@ -54,14 +54,11 @@ I build things that actually work:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nithish464&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish464&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+[![Nithish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithish464&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Nithish464)
+
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=Nithish464&theme=tokyonight&hide_border=true" />
-</p>
----
 <p align="center">
   Open to ML Engineer / Data Analyst / Full Stack roles — Chennai or Remote<br/>
   📧 nithishkumar.k464@gmail.com
