@@ -51,13 +51,13 @@ I build things that actually work:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Activity
 
-<p align="center">
+![](https://komarev.com/ghpvc/?username=Nithish464&color=blue&style=flat-square&label=Profile+Views)
 
-[![Nithish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithish464&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Nithish464)
-
-</p>
+> 🔨 Currently building: AI + Full Stack projects  
+> 🎯 Target: 200+ contributions in 2026  
+> 📍 Open to: ML Engineer / Data Analyst / Full Stack roles — Chennai or Remote
 
 <p align="center">
   Open to ML Engineer / Data Analyst / Full Stack roles — Chennai or Remote<br/>
