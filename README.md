@@ -53,15 +53,13 @@ I build things that actually work:
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nithish464&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish464&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nithish464&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish464&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=Nithish464&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=Nithish464&theme=tokyonight&hide_border=true" />
 </p>
 ---
 <p align="center">
