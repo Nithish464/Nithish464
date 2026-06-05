@@ -53,10 +53,11 @@ I build things that actually work:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nithish464&theme=tokyonight&hide_border=true" height="160"/>
- 
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithish464&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish464&layout=compact&theme=dark)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nithish464&theme=dark)
 
 ---
 
