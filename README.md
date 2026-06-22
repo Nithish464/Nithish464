@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nithishkumar K 👋</h1>
-vanakam
+
 <p align="center">
   ML Engineer &nbsp;|&nbsp; Full Stack Developer &nbsp;|&nbsp; Ai Engineer &nbsp;|&nbsp; DataAnalyst
 </p>
