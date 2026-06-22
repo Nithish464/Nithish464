@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nithishkumar K 👋</h1>
 
 <p align="center">
-  ML Engineer &nbsp;|&nbsp; Full Stack Developer &nbsp;|&nbsp; Ai Engineer &nbsp;|&nbsp; DataAnalystl
+  ML Engineer &nbsp;|&nbsp; Full Stack Developer &nbsp;|&nbsp; Ai Engineer &nbsp;|&nbsp; DataAnalyst
 </p>
 
 <p align="center">
